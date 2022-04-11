@@ -1,0 +1,17 @@
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\bin\Debug\net6.0-windows\CS408_HW1_client.exe
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\bin\Debug\net6.0-windows\CS408_HW1_client.deps.json
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\bin\Debug\net6.0-windows\CS408_HW1_client.runtimeconfig.json
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\bin\Debug\net6.0-windows\CS408_HW1_client.dll
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\bin\Debug\net6.0-windows\CS408_HW1_client.pdb
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.csproj.AssemblyReference.cache
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.Form1.resources
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.csproj.GenerateResource.cache
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.AssemblyInfoInputs.cache
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.AssemblyInfo.cs
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.dll
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\refint\CS408_HW1_client.dll
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.pdb
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\CS408_HW1_client.genruntimeconfig.cache
+C:\Users\selim\source\repos\CS408_HW1_client\CS408_HW1_client\obj\Debug\net6.0-windows\ref\CS408_HW1_client.dll
