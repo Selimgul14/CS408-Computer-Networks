@@ -114,7 +114,7 @@ namespace CS408_HW1_server
             string[] words = message.Split(':');
             string username = words[2];
             var lines = new List<string>();
-            using (StreamReader reader = new StreamReader(@"C:/Users/selim/source/repos/CS408_HW1_server/CS408_HW1_server/database.txt"))
+            using (StreamReader reader = new StreamReader(@"../../../database.txt"))
             {
                 var line = reader.ReadLine();
                 while (line != null)
@@ -124,9 +124,9 @@ namespace CS408_HW1_server
                 }
                 reader.Close();
             }
-                using (StreamWriter file = new StreamWriter("C:/Users/selim/source/repos/CS408_HW1_server/CS408_HW1_server/database.txt", append: true))
+                using (StreamWriter file = new StreamWriter("../../../database.txt", append: true))
             {
-                if (new FileInfo("C:/Users/selim/source/repos/CS408_HW1_server/CS408_HW1_server/database.txt").Length == 0)
+                if (new FileInfo("../../database.txt").Length == 0)
                 {
                     file.WriteLine(message);
                     response = "success";

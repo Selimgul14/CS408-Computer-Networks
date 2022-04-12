@@ -144,7 +144,7 @@ namespace CS408_HW1_client
             connected = false;
             terminating = true;
             clientSocket.Close();
-            logs.AppendText("Successfully disconnected!");
+            logs.AppendText("Successfully disconnected!\n");
             button_connect.Enabled = true;
             button_disconnect.Enabled = false;
             button_create.Enabled = false;
